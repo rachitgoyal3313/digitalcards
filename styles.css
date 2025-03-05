@@ -61,6 +61,11 @@ body {
 a{
     color: black;
 }
+.hovereff{
+    height: full;
+    w-full;
+    
+}
 
 @keyframes floating {
     0% { transform: translateY(0px); }
